@@ -1,0 +1,65 @@
+
+header{
+    background-image: url("images/pod.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: center;
+}
+
+h1 {
+    display: inline-block;
+    text-align:center;
+    margin: 0;
+    font-size: 100px;
+    font-style: italic;
+    color: aliceblue;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color:aquamarine;
+    width:fit-content;
+    height: 80px;
+    margin:auto;
+    padding-right: 30px;
+}
+
+.navbar ul{
+    list-style-type: none;
+}
+
+.navbar a{
+    color:blue;
+    font-family: Verdana;
+    font-size: 20px;
+    padding: 10px;
+    text-decoration: none;
+    display:inline-block;
+}
+
+.navbar a:hover{
+    background-color:cornflowerblue;
+}
+
+.navbar li{
+    float: left;
+}
+
+p {
+    font-family: verdana;
+    font-size: 30px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
